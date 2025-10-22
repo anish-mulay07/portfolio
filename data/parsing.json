@@ -1,0 +1,16 @@
+{
+  "name": "Anish Mulay",
+  "email": "",
+  "education": [
+    "Indian Institute of Technology Madras, Chennai, India — Bachelor of Technology, Master of Technology (Dual Degree) Nov. 2021 – Jul. 2026; Major – Data Science and Artificial Intelligence; CGPA 8.66/10"
+  ],
+  "projects": [
+    "Publications and Patents",
+    "• Developed Decisive, a framework for document-grounded decision-making tailored to user’s preferences",
+    "• Developed a probabilistic Dirichlet preference model updated through information-gain based user clarifications",
+    "• Developed a strategy combining DPO (syntax alignment) with QA-based CoT fine-tuning for data-scarce DSLs",
+    "• Developed a What-If simulator using knowledge graphs to gauge the impact of global events on the supply chain",
+    "Guide : Prof Balaraman Ravindran — Wadhwani School of Data Science and AI, IIT Madras Research Project"
+  ],
+  "text_head": "Anish Mulay\nPortfolio | Mail | Linkedin | GitHub\nEducation\nIndian Institute of Technology Madras Chennai, India\nBachelor of Technology, Master of Technology (Dual Degree) Nov. 2021 – Jul. 2026\nMajor – Data Science and Artificial Intelligence CGPA 8.66/10\nRelevant Coursework\nReinforcement Learning | Deep Learning for Imaging | Mathematical Foundations of Data Science | Machine\nLearning Techniques | Probability Theory | Linear Algebra\nTechnical Skills\nLanguages: Python, C++ — ML Utils: Pytorch, Tensorflow, HuggingFace — RL Tools: OpenAI Gym, Mujoco\nNLP & LLM: Transformers, RAG, DPO, LoRA, Langchain Tools & MLops: Git, Docker, W&B, Pandas, NumPy\nPublications and Patents\nDecisive: Guiding User Decisions with Optimal Preference Elicitation from Unstructured Documents\narxiv link\nAnish Mulay, Akr"
+}
